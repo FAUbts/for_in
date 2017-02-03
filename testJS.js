@@ -4,8 +4,6 @@ var human = {
 	weight: 75
 }
 
-//alert(human.name);
-
 for (var key in human){
 	alert(key + ": " + human[key]);
 }
